@@ -1,0 +1,1 @@
+import"./front_6th_chapter1-2-Dk7iDbOz.js";
