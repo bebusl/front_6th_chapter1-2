@@ -1,0 +1,1 @@
+import"./front_6th_chapter1-2-CNzw3b9i.js";
